@@ -8,7 +8,7 @@ JOIN
 JOIN
     produtos p ON c.id_produto = p.id;
 
---como funciona
+--Como funciona:
 
 --SELECT u.nome, p.nome: Seleciona a coluna nome da tabela usuarios (apelidada de u) e a coluna nome da tabela produtos (apelidada de p).
 
